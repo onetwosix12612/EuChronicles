@@ -1,0 +1,4 @@
+{"name":"chronicles-europe","version":"1.0.0","private":true,
+ "scripts":{"prep":"node prep.js"},
+ "dependencies":{"@capacitor/core":"^6.1.0","@capacitor/android":"^6.1.0","@capacitor/ios":"^6.1.0"},
+ "devDependencies":{"@capacitor/cli":"^6.1.0"}}
